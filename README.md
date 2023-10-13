@@ -51,7 +51,7 @@ Usage
 Please input the following commands to clone this repository.
 
 ```sh
-$ git clone --recursive https://github.com/hsr-project/tmc_wrs_docker.git
+$ git clone --recursive https://github.com/nourmorsy/Home-Service-Robot-Platform.git
 $ cd Home-Service-Robot-Platform
 ```
 
@@ -77,6 +77,7 @@ Please open each of the following URLs in a browser, then move on to development
 - The simulator's screen http://localhost:3000
 - IDE http://localhost:3001
 - jupyter notebook http://localhost:3002
+  
 Authors
 ---------------
  * Yosuke Matsusaka
